@@ -1,0 +1,33 @@
+# Video files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.wmv
+
+# Output
+clean*.mp4
+output*.mp4
+
+# Temp
+temp/
+*.pyc
+__pycache__/
+
+# FFmpeg (large binary distribution)
+ffmpeg-*/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug images
+*.png
+*.jpg
+!assets/*.png
