@@ -143,3 +143,6 @@ python main.py --input video1.mp4 --output clean.mp4 --logo template_v2.png --dy
 
 # version 5.0
 python main.py --input video1.mp4 --output clean.mp4 --coords 520 1180 200 80 --coords 30 20 360 130
+
+# version 6.0
+python main.py --input video1.mp4 --output clean.mp4 --corners
